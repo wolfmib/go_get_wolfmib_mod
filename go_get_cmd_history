@@ -1,0 +1,5 @@
+cd ici
+go mod init (avec git repository)
+go get github.com/wolfmib/test_mod
+go run main.go
+go mod vendor
